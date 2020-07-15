@@ -2,7 +2,7 @@ This is my personal Front-end minimal template to be used in a application web.
 
 > Feel free to fork and configure your React/Vue/Svelte project with this template.
 
-Features:
+### Features:
 
 - **Jest** Configuration
 - **Husky** Configuration
@@ -11,7 +11,15 @@ Features:
 - **Data, Domain and Infra layers** of **Clean Architecture** Configuration and examples
 
 
-DevDependences from `package.json`:
+### How to use?
+
+You can use this minimal template to configure your application, and insert the other layers like Presentational and Validation Layers.
+
+Firstly, I strongly recommend that you study a little bit of **Clean Architecture** if you are not comfortable with this topic.
+
+You can read this [article of Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) =)
+
+### DevDependences from `package.json`:
 
 ```js
 "devDependencies": {
