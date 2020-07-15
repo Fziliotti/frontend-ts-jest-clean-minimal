@@ -1,17 +1,18 @@
-This is a Front-end minimal template to be used in a application web.
+This is my personal Front-end minimal template to be used in a application web.
 
-Feel free to fork and configure your React/Vue/Svelte project with this template.
+> Feel free to fork and configure your React/Vue/Svelte project with this template.
 
 Features:
 
-- Jest Configuration
-- Husky Configuration
-- Typescript Configuration
-- Eslint Configuration
-- Data, Domain and Infra layers of Clean Architecture Configuration and examples
+- **Jest** Configuration
+- **Husky** Configuration
+- **Typescript** Configuration
+- **Eslint** Configuration
+- **Data, Domain and Infra layers** of **Clean Architecture** Configuration and examples
 
 
 DevDependences from `package.json`:
+
 ```js
 "devDependencies": {
     "@types/axios": "^0.14.0",
