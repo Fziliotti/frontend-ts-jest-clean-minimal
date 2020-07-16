@@ -17,8 +17,6 @@
     },
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
-    // "strict": true,
-    "noEmit": true,
     "resolveJsonModule": true
   },
   "include": [
